@@ -1,0 +1,161 @@
+html {
+    background-color:darkkhaki;
+}
+.mainheader {
+    padding: 0%;
+    margin: 0%;
+    justify-content: space-between;
+    display: flex;
+    width: 100%;
+    color: brown;
+}
+
+.coverphoto {
+    width:40%;
+    float: right;
+    padding: 1%;
+    margin-top: 4%;
+    border-radius: 50%;
+    margin-right: 7%;
+    overflow: hidden;
+}
+.coverphoto1 {
+    width:65%;
+    margin-top: 2%;
+    border-radius: 80%;
+    margin-left: 18%;
+    overflow: hidden;
+}
+
+.header {
+    width: 40%;
+ overflow: hidden;
+ padding-left: 3%;
+ font-family: 'Courier New', Courier, monospace;
+}
+.bottons{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 120%;
+    text-align: right;
+    display: flex;
+    justify-content:space-around;
+    padding: 1%;
+    word-spacing: 5%;
+    padding-right: 10%;
+    color: brown;
+}
+
+.home{
+    padding:3%
+}
+.about{
+    padding:3%
+}
+.projects{
+    padding:3%
+}
+.contact{
+    padding:3%
+}
+
+.services{
+    padding:3%
+}
+
+.photos img:hover{
+    transform: scale(1.1);
+    transition: 1s;
+}
+
+.photos img{
+    transition: transform 0.3s ease-in-out;
+}
+
+
+.arrow{
+    width: 20%;
+    height: fit-content;
+    display: flex;
+    float: left;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 4%;
+}
+
+    a {  
+    list-style-type: none;
+     text-decoration:none; 
+     color:brown ;
+    }
+    a:hover{
+        font-weight: bold;
+        color:blanchedalmond;
+        cursor: pointer;
+      }
+    
+    .photos{
+        margin-top: 10%;
+    }
+
+.Xskate{
+    height: auto;
+    width:30%;
+    padding-left: 15%;
+    padding-top: 2%;
+    float: left;
+}
+
+.Xsurf{
+    width:30%;
+    display: flex;
+    padding-top: 5%;
+    padding-right: 15%;
+    margin-bottom: 0%;
+    float: right;
+}
+
+
+.Xclimb{
+    width:30%;
+    padding-left: 15%;
+    padding-top: 7%;
+    float: left;
+}
+
+.Buenaonda{
+    width:30%;
+    float: right;
+    padding-right: 15%;
+    padding-bottom: 7%;
+    padding-top: 7%;
+}
+.Seilnorge{
+    width:30%;
+    float: left;
+    padding-left: 15%;
+    padding-top: 7%;
+}
+.Portraits{
+    width:30%;
+    float: right;
+    padding-right: 15%;
+    padding-bottom: 10%;
+}
+
+.opener{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 190%;
+    float: left;
+    width: 40%; 
+    padding: 0%;
+    margin-left: 8%;
+    margin-top: 13%;
+    text-align: left;
+    color: brown;
+    
+}
+
+.navbutton{
+    display: inline-block;
+}
+

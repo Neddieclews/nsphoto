@@ -1,0 +1,87 @@
+html{ background-color: rgb(116, 136, 174)
+}
+
+
+.mainheader {
+  padding: 0%;
+  margin: 0%;
+  justify-content: space-between;
+  display: flex;
+  width: 100%;
+  color:rgb(203, 203, 253);
+}
+
+p{
+  font-family: 'Courier New', Courier, monospace;
+  color:rgb(239, 194, 88);
+  font-size: 150%;
+  float: left;
+  margin-top: 10%;
+  margin-left: 9%;
+}
+.coverphoto {
+  width:40%;
+  margin-top: 2%;
+  border-radius: 80%;
+  margin-left: 10%;
+  overflow: hidden;
+  float: left;
+}
+
+.header {
+  width: 40%;
+overflow: hidden;
+padding-left: 3%;
+font-family: 'Courier New', Courier, monospace;
+color:rgb(239, 194, 88);
+}
+.bottons{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 120%;
+  text-align: right;
+  display: flex;
+  justify-content:space-around;
+  padding: 1%;
+  word-spacing: 5%;
+  padding-right: 10%;
+  color:rgb(239, 194, 88);
+}
+h1{
+  color:rgb(239, 194, 88);
+}
+h2{
+  font-family: 'Courier New', Courier, monospace;
+  color:rgb(239, 194, 88);
+  font-size: 200%;
+  float: left;
+  margin-right: 32%;
+  margin-top:7%;
+  float: right; 
+}
+
+.home{
+  padding:3%
+}
+.about{
+  padding:3%
+}
+.projects{
+  padding:3%
+}
+.contact{
+  padding:3%
+}
+.services{
+    padding:3%
+}
+a {  
+  list-style-type: none;
+  text-decoration:none; 
+  color: rgb(239, 194, 88);;
+  }
+a:hover{
+      font-weight: bold;
+      color:blanchedalmond;
+      cursor: pointer;
+
+  }

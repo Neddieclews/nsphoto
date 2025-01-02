@@ -1,0 +1,158 @@
+html{
+    background-color: beige;
+}
+
+.mainheader {
+    padding: 0%;
+    margin: 0%;
+    justify-content: space-between;
+    display: flex;
+    width: 100%;
+    color:cornflowerblue;
+}
+
+
+.header {
+    width: 40%;
+overflow: hidden;
+padding-left: 3%;
+font-family: 'Courier New', Courier, monospace;
+color:cornflowerblue;
+}
+.bottons{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 120%;
+    text-align: right;
+    display: flex;
+    justify-content:space-around;
+    padding: 1%;
+    word-spacing: 5%;
+    padding-right: 10%;
+    color: cornflowerblue;
+}
+h1{
+    color:cornflowerblue;
+}
+
+.home{
+    padding:3%
+}
+.about{
+    padding:3%
+}
+.projects{
+    padding:3%
+}
+.contact{
+    padding:3%
+}
+.services{
+    padding:3%
+}
+a{  
+    color:cornflowerblue;
+    list-style-type: none;
+    text-decoration:none; 
+    }
+a:hover{
+        font-weight:bolder;
+        color: brown;
+        cursor: pointer;
+    }
+.X2link{
+    font-family: 'Courier New', Courier, monospace;
+    color: brown;
+    font-size: 120%;
+    text-align: center;
+    margin-left: 42%;
+}
+
+h2{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: cornflowerblue;
+    font-size: 800%;
+    margin-top: 20%;
+    margin-bottom: 20%;
+}
+h3{
+    padding: 5%;
+    font-family: 'Courier New', Courier, monospace;
+    color: brown;
+    font-size: 200%;
+    text-align: center;
+}
+
+.Xskate1{
+    width:35%;
+    margin-left: 32%;
+    padding-top: 2%;
+
+}
+.Xskate2{
+    width:70%;
+    margin-left: 15%;
+    padding-top: 2%;
+
+}
+.xskate3{
+    width:70%;
+    margin-left: 15%;
+    padding-top: 2%;
+}
+.Xskate4{
+    width:70%;
+    margin-left: 15%;
+    padding-top: 2%;
+}
+.Xsurf1{
+    width:70%;
+    padding-top: 2%;
+    padding-left: 15%;
+
+}
+.Xsurf2{
+    width:70%;
+    padding-top: 2%;
+    padding-left: 15%;
+
+}
+.Xsurf3{
+    width:70%;
+    padding-top: 2%;
+    padding-left: 15%;
+
+}
+.Xsurf4{
+    width:70%;
+    padding-top: 2%;
+    padding-left: 15%;
+
+}
+
+.Xclimb{
+    width:70%;
+    padding-top: 2%;
+    margin-left: 15%;
+}
+.Xclimb1{
+    width:70%;
+    padding-top: 2%;
+    margin-left: 15%;
+}
+.Xclimb2{
+    width:35%;
+    margin-left: 32%;
+    padding-top: 2%;
+}
+
+iframe{
+    margin-left: 30%;
+}
+
+.text{
+    font-family: 'Courier New', Courier, monospace;
+    color: brown;
+    font-size: 120%;
+    text-align: center;
+}
